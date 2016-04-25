@@ -165,10 +165,10 @@ public class LocationTracker implements GoogleApiClient.ConnectionCallbacks, Goo
     @Override
     public void onLocationChanged(Location location) {
         //DEBUG
-        if (mLocations.size() > 0) {
-            location.setLatitude(location.getLatitude() + Math.random() * .005);
-            location.setLongitude(location.getLongitude() + Math.random() * .005);
-        }
+//        if (mLocations.size() > 0) {
+//            location.setLatitude(location.getLatitude() + Math.random() * .005);
+//            location.setLongitude(location.getLongitude() + Math.random() * .005);
+//        }
         trackLocation(location);
     }
 }
