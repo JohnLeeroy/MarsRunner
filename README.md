@@ -9,5 +9,6 @@
  * Google Maps API Key
 
 ### Screenshots
-![txt](http://i.imgur.com/5dBFDMw.png "Map View")
-![txt](http://i.imgur.com/E1l1dCz.png "Result View")
+<img src="http://i.imgur.com/5dBFDMw.png" width="360" height="640">
+<img src="http://i.imgur.com/E1l1dCz.png" width="360" height="640">
+
